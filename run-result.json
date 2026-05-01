@@ -1,0 +1,12 @@
+{
+  "repo": "ai-agent-1773568814-claude",
+  "title": "Open-Source AI Agent Rights Policy Comparison Dashboard",
+  "type": "tooling",
+  "generated_at": "2026-05-01T01:04:23.391Z",
+  "status": "ready_for_review",
+  "safety": {
+    "noSecrets": true,
+    "noWalletSigning": true,
+    "noPayoutChange": true
+  }
+}

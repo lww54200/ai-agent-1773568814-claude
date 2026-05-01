@@ -1,6 +1,11 @@
 {
   "name": "ai-agent-1773568814-claude",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "private": true,
   "description": "Open-Source AI Agent Rights Policy Comparison Dashboard",
-  "private": true
+  "scripts": {
+    "test": "node validate.js",
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
 }
